@@ -8,7 +8,7 @@ var app = new Vue({
 		]
 	},
 	watch: {
-		colors: {
+		colors: {ß
 			handler: function(newValue, oldValue) {
 				console.log('Update!')
 				console.log('new: %s, oldValue: &s',
